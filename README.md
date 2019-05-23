@@ -53,3 +53,6 @@
 [здесь](https://tproger.ru/translations/programming-concepts-compilation-vs-interpretation/)
 и [здесь](http://itmentor.by/articles/kompiliruemye-i-interpretiruemye-yazyki-programmirovaniya)
 
+Что такое [компилятор](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80) и
+[интерпретатор](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80).
+
